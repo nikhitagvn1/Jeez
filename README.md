@@ -32,3 +32,35 @@ Sno | Name | Num
 
 Hey Guys :smile:! This is **NIKI** :wink:.
 
+~~This is a wrong text~~
+    
+Java is a High level programming language[^1].
+
+Java wad developed by James Gosling[^2].
+
+[^1]: For more info visit oracle.java website.
+[^2]: In the year **1991** with **OAK** as its initial name.It was renamed as ***JAVA*** in the year **1995**.
+
+<!-- Hey there! :wink:. -->
+
+```
+git status
+git add
+git commit
+```
+
+1. First list item
+   - First nested list item
+     - Second nested list item
+
+1. Apple
+   - Banana
+      - Cherry
+         - Dragonfruit
+
+
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+
+
